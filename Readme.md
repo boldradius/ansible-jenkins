@@ -1,3 +1,6 @@
+To use from OSX, you'll need to install sshpass, as described here: http://www.hashbangcode.com/blog/installing-sshpass-osx-mavericks
+
+
 # Readme
 
 ## Description
